@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Book Review: Love and Liberation"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Review of the book Love and Liberation: Humanitarian Work in Ethiopia’s Somali Region, by L. Carruth'
+date: 2023
+venue: 'Society for the Anthropology of Work'
+paperurl: 'https://​saw​.amer​i​canan​thro​.org/​p​u​b​/​n​2​u​y​i​7​x​o​/​r​e​l​e​ase/1'
+citation: 'Sharma, A. R. (2023). Book Review: Love and Liberation. [Review of the book Love and Liberation: Humanitarian Work in Ethiopia’s Somali Region, by L. Carruth]. Society for the Anthropology of Work. https://​saw​.amer​i​canan​thro​.org/​p​u​b​/​n​2​u​y​i​7​x​o​/​r​e​l​e​ase/1'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Sharma, A. R. (2023). Book Review: Love and Liberation. [Review of the book Love and Liberation: Humanitarian Work in Ethiopia’s Somali Region, by L. Carruth]. Society for the Anthropology of Work. https://​saw​.amer​i​canan​thro​.org/​p​u​b​/​n​2​u​y​i​7​x​o​/​r​e​l​e​ase/1
